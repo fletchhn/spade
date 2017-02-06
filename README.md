@@ -8,7 +8,7 @@ is definable and modifiable by the user.
 
 ## Installing
 Spade is currently not production ready, so it is not advised that
-non-developers attempt to install.  Check out progress to v1 [here][2]
+non-developers attempt to install.  Check out progress to v1 [here][2].
 
 ## Contributing
 See [contributing docs][3] for more info.
